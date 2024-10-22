@@ -1,7 +1,7 @@
 # Teme_Robotica
 # Tema 1
-  Scopul acestei teme este să demonstreze un sistem simplu și interactiv de simulare a unei stații de încărcare, cu accent pe gestionarea butoanelor și utilizarea LED-urilor pentru a reflecta diferitele stadii ale încărcării.
-  Un LED RGB indică disponibilitatea stației: verde pentru stație liberă și roșu pentru stație ocupată. Încărcarea este simulată prin aprinderea progresivă a patru LED-uri, care reprezintă diferite niveluri de încărcare (25%, 50%, 75%, 100%).
+  Scopul acestei teme este să simuleze un sistem interactiv a unei stații de încărcare, cu accent pe gestionarea butoanelor și utilizarea LED-urilor pentru a reflecta diferitele stadii ale încărcării.
+  Un LED RGB indică disponibilitatea stației, astfel: verde pentru stație liberă și roșu pentru stație ocupată. Încărcarea este simulată prin aprinderea progresivă a patru LED-uri.
   Apăsarea butonului de start începe procesul de încărcare, în timp ce LED-urile se aprind și clipesc pentru a indica progresul. Apăsarea lungă a butonului de stop întrerupe procesul și resetează stația. La finalizarea încărcării, toate LED-urile clipesc simultan pentru a semnala finalizarea.
 ## Cuprins
 1. Componente utilizate
