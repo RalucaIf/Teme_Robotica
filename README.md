@@ -16,8 +16,8 @@
 * breadboard
 * linii de legatură
 ## Setup fizic
-![IMG-20241022-WA0002](https://github.com/user-attachments/assets/03c6e95c-e51d-4d86-b955-ba1a8b14b370)
-![IMG-20241022-WA0003](https://github.com/user-attachments/assets/69b33603-3bdb-4f2d-bf8e-4e1959a7934f)
+<img src="https://github.com/user-attachments/assets/03c6e95c-e51d-4d86-b955-ba1a8b14b370" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/69b33603-3bdb-4f2d-bf8e-4e1959a7934f" width="500" height="500">
 
 ## Funcționalitatea montajului
 Video cu funcționalitatea montajului:
@@ -27,6 +27,7 @@ https://github.com/user-attachments/assets/92dcd77e-fb0a-4cee-81ad-1887752aef7a
 
 
 ## Schema electrică
-![Screenshot 2024-10-22 105004](https://github.com/user-attachments/assets/e12bfd78-c0d4-4424-bd41-a04b780f3b7b)
+<img src="https://github.com/user-attachments/assets/e12bfd78-c0d4-4424-bd41-a04b780f3b7b" width="500" height="700">
+
 
 
