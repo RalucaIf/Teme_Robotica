@@ -1,23 +1,32 @@
 # Teme_Robotica
 # Tema 1
-  Scopul temei este de a simula incarcarea unei statii electrice cu ajutorul a doua butoane si patru LED-uri pentru indicarea procentului de incarcare.
+  Scopul acestei teme este să demonstreze un sistem simplu și interactiv de simulare a unei stații de încărcare, cu accent pe gestionarea butoanelor și utilizarea LED-urilor pentru a reflecta diferitele stadii ale încărcării.
+  Un LED RGB indică disponibilitatea stației: verde pentru stație liberă și roșu pentru stație ocupată. Încărcarea este simulată prin aprinderea progresivă a patru LED-uri, care reprezintă diferite niveluri de încărcare (25%, 50%, 75%, 100%).
+  Apăsarea butonului de start începe procesul de încărcare, în timp ce LED-urile se aprind și clipesc pentru a indica progresul. Apăsarea lungă a butonului de stop întrerupe procesul și resetează stația. La finalizarea încărcării, toate LED-urile clipesc simultan pentru a semnala finalizarea.
 ## Cuprins
 1. Componente utilizate
 2. Setup fizic
-3. Functionalitatea montajului
-4. Schema electrica
+3. Funcționalitatea montajului
+4. Schema electrică
 ## Componente utilizate
-* 4 LED-uri albastre - pentru simularea procesului de incarcare
-* 1 LED RGB - disponibilitatea statiei de incarcare
-* 2 butoane - start si stop
-* 8 rezistoare (7 de 220 ohm, respectiv 2 de 1kohm)
+* 4 LED-uri albastre - pentru simularea procesului de încărcare
+* 1 LED RGB - disponibilitatea stației de încărcare
+* 2 butoane - start și stop
+* 9 rezistoare (7 de 220 ohm, respectiv 2 de 1kohm)
 * breadboard
-* linii de legatura
+* linii de legatură
 ## Setup fizic
+![IMG-20241022-WA0002](https://github.com/user-attachments/assets/03c6e95c-e51d-4d86-b955-ba1a8b14b370)
+![IMG-20241022-WA0003](https://github.com/user-attachments/assets/69b33603-3bdb-4f2d-bf8e-4e1959a7934f)
 
-## Functionalitatea montajului
+## Funcționalitatea montajului
+Video cu funcționalitatea montajului:
 
-## Schema electrica
+
+https://github.com/user-attachments/assets/92dcd77e-fb0a-4cee-81ad-1887752aef7a
+
+
+## Schema electrică
 ![Screenshot 2024-10-22 105004](https://github.com/user-attachments/assets/e12bfd78-c0d4-4424-bd41-a04b780f3b7b)
 
 
